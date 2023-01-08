@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="563fe99d-9ab2-4f9e-93e2-6f4a084cb4f0" name="shengyp_server">
+        <fileTransfer accessType="SFTP" port="22" sshConfigId="76f8c098-1f5b-4ca5-a27f-829ae8b01700" sshConfig="shengyp_server">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

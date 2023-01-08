@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" id="76f8c098-1f5b-4ca5-a27f-829ae8b01700" port="22" customName="shengyp_server" nameFormat="CUSTOM" />
+    </configs>
+  </component>
+</project>
